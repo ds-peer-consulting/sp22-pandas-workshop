@@ -1,6 +1,6 @@
 # Intro to Pandas Workshop
-#### By: 
-Workshop Date: 
+#### By: Spencer Le, Jillian Criscuolo, Jun Park 
+Workshop Date: 02/01/2022
 
 ## Workshop Goal(s): 
 
